@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_start">#090B18</color>
+    <color name="background_end">#181D3A</color>
+
+    <color name="panel">#CC222744</color>
+    <color name="panel_border">#4DFFFFFF</color>
+
+    <color name="primary">#44D7FF</color>
+    <color name="primary_pressed">#149CC4</color>
+
+    <color name="secondary">#8B5CF6</color>
+    <color name="secondary_pressed">#6741C7</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B8BDD8</color>
+
+    <color name="board_background">#80030712</color>
+    <color name="board_grid">#24FFFFFF</color>
+
+    <color name="tetromino_i">#39DDF5</color>
+    <color name="tetromino_j">#4D7DFF</color>
+    <color name="tetromino_l">#FF9F43</color>
+    <color name="tetromino_o">#FFE14D</color>
+    <color name="tetromino_s">#53E675</color>
+    <color name="tetromino_t">#A968FF</color>
+    <color name="tetromino_z">#FF5263</color>
+    <color name="line_clear_flash">#FFFFFFFF</color>
+    <color name="game_over_overlay">#D9000000</color>
+</resources>

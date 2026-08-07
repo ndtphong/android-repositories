@@ -1,0 +1,26 @@
+<resources>
+    <string name="score_0">Score: 0</string>
+    <string name="settings">SETTINGS</string>
+    <string name="back">Back</string>
+    <string name="animation">Animation</string>
+    <string name="sound">Sound</string>
+    <string name="game">GAME</string>
+    <string name="tetris">TETRIS</string>
+    <string name="play">Play</string>
+    <string name="app_name">Tetris</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="restart">RESTART</string>
+    <string name="home">HOME</string>
+    <string name="next">NEXT</string>
+    <string name="finish_game">FINISH GAME</string>
+    <string name="new_high_score">NEW HIGH SCORE</string>
+    <string name="score_value">Score: %1$d</string>
+    <string name="lines_value">Lines: %1$d</string>
+    <string name="level_value">Level: %1$d</string>
+    <string name="high_score_value">High score: %1$d</string>
+    <string name="move_left">Move left</string>
+    <string name="move_right">Move right</string>
+    <string name="rotate">Rotate</string>
+    <string name="soft_drop">Soft drop</string>
+    <string name="hard_drop">Hard drop</string>
+</resources>

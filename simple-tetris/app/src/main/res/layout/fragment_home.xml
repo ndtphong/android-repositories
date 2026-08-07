@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_screen"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/screen_padding">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_panel"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_title"
+            style="@style/TetrisTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="48dp" />
+
+        <Button
+            android:id="@+id/button_play"
+            style="@style/TetrisButton"
+            android:drawableStart="@drawable/ic_play"
+            android:drawablePadding="12dp"
+            android:text="@string/play" />
+
+        <Button
+            android:id="@+id/button_settings"
+            style="@style/TetrisButton.Secondary"
+            android:layout_marginTop="16dp"
+            android:drawableStart="@drawable/ic_settings"
+            android:drawablePadding="12dp"
+            android:text="@string/settings" />
+
+    </LinearLayout>
+
+</LinearLayout>

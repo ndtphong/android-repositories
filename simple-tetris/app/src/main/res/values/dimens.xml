@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="panel_padding">20dp</dimen>
+    <dimen name="panel_radius">20dp</dimen>
+    <dimen name="button_radius">14dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="title_size">40sp</dimen>
+    <dimen name="subtitle_size">18sp</dimen>
+</resources>
